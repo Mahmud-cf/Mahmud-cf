@@ -1,9 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Mahmud Ahmed</h1>
 <h3 align="center">A professional frontend developer from Sylhet, Bangladesh</h3>
 
 ### About me:
 
-Hi, I like to introduce myself as a front-end Web Developer. I have one year of experience in this field. I have much knowledge in JavaScript, React JS, pure CSS with animation, and CSS frameworks Bootstrap and Tailwind. I can do pixel-perfect design. I work with React JS on the front end. I am comfortable with 'React JS'. I am used to learning new technologies all the time.
+Hi, I like to introduce myself as a front-end Web Developer. I have one year of experience in this field. I have much knowledge in JavaScript, React JS, Redux, pure CSS with animation, and CSS frameworks Bootstrap and Tailwind. I can do pixel-perfect design. I work with React JS on the front end. I am comfortable with 'React JS'. I am used to learning new technologies all the time.
 
 ### Work Experience:
 
